@@ -3,16 +3,6 @@
 An online Checkers game system built in Java 8 and Spark,
 a web micro-framework.
 
-
-## Team
-
-- Taylor Higgins (txh3467)
-- Michael Hurlbutt (mxh5594)
-- Patrick McCullough (pkm4195)
-- Ayush Rout (axr6077)
-- Adam Wolf (aw1875)
-
-
 ## Prerequisites
 
 - Java 8
@@ -79,3 +69,5 @@ MIT License
 
 See LICENSE for details.
 "# WebCheckers" 
+
+Reach me at axr6077@rit.edu
